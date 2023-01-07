@@ -10,7 +10,7 @@ assignees: ''
 Homework evaluation rubric: 
 
 - [ ] Submit homework, 1pt
-- [ ] Include `download_pronto.bash` script, 1pt
-- [ ] `download_pronto.bash` script makes a directory to save the CSV, 1pt
-- [ ] `download_pronto.bash` script downloads the CSV as `pronto.csv`, 1pt
-- [ ] `download_pronto.bash` script "heads" the CSV, 1 pt
+- [ ] Include `download_pronto.sh` script, 1pt
+- [ ] `download_pronto.sh` script makes a directory to save the CSV, 1pt
+- [ ] `download_pronto.sh` script downloads the CSV as `pronto.csv`, 1pt
+- [ ] `download_pronto.sh` script "heads" the CSV, 1 pt
