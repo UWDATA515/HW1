@@ -9,12 +9,13 @@ assignees: ''
 
 Homework evaluation rubric: 
 
-? / 7 points
+? / 8 points
 
 - [ ] Submits homework using GitHub Classroom, 1pt
 - [ ] Includes `download_pronto.sh` script in root of the repository, 1pt
-- [ ] `download_pronto.sh` script makes and moves to a directory to save the CSV, 1pt
-- [ ] `download_pronto.sh` script downloads the CSV as `pronto.csv`, 1pt
-- [ ] `download_pronto.sh` script "heads" the CSV, 1pt
+- [ ] `download_pronto.sh` script makes and moves to a directory to save the data, 1pt
+- [ ] `download_pronto.sh` script downloads the zip as `pronto.zip`, 1pt
+- [ ] `download_pronto.sh` script unzips the archive, 1pt
+- [ ] `download_pronto.sh` script "heads" the right CSV, 1pt
 - [ ] Script is executable, 1pt
-- [ ] Does not upload `pronto.csv`, 1pt
+- [ ] Does not upload `pronto.zip` or other data files, 1pt
